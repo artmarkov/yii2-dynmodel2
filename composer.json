@@ -1,0 +1,23 @@
+{
+    "name" : "m00nk/yii2-dynmodel2",
+    "description" : "Dynamic model Yii2 component",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "version" : "2.0.0",
+    "authors": [
+        {
+            "name": "Dmitrij Sheremetjev",
+            "email": "m00nk1975@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "m00nk\\dynmodel2\\": ""
+        }
+    }
+}
